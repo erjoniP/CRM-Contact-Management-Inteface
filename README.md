@@ -2,7 +2,7 @@
 This project is a Contact Management System built using Python. It combines a backend database for storing contact details with an intuitive Graphical User Interface (GUI) powered by Kivy, enabling users to manage their contacts efficiently.
 
 # Features
-📇 Add/Edit/Delete Contacts: Easily create, update, or remove contact entries.
+📇 Add/Edit/Delete Contacts: Easily create, update, or remove contact entries./n
 🔍 Contact List View: View all saved contacts in a scrollable, organized layout.
 🖥️ Interactive GUI: User-friendly interface for seamless interaction and data management.
 📦 Database Integration: Securely stores contact information in a PostgreSQL database for persistent data management.
